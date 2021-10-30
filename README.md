@@ -15,7 +15,7 @@ Login with one of the different users created to access the personalized interfa
 
 - Html, CSS, VanillaJS
 - Using ECMAScript Internationalization API
-- Deployed with [netlify.com](https://www.netlify.com/)
+- Deployed with [Netlify](https://www.netlify.com/)
 
 ## License
 
